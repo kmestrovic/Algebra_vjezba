@@ -1,7 +1,7 @@
-
+import ClassComponent from "./ClassComponent"
 const App = () => {
   return (
-    <div></div>
+    <ClassComponent/>
   );
 }
 
